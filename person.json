@@ -1,0 +1,12 @@
+{
+    "fname": "Mwangi",
+    "lname": "Waithaka",
+    "age": 21,
+    "city": "Nairobi",
+    "married": false,
+    "titles": [
+        "programmer",
+        "project manager",
+        "computer scientist"
+    ]
+}
